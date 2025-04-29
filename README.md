@@ -2,6 +2,26 @@
 
 ![图](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-28%20210417.png)
 
+![+](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/1.png)
+
+![-](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/2.png)
+
+![*](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/3.png)
+
+![.](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/4.png)
+
+![t](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/5.png)
+
+![d](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/6.png)
+
+![r](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/8.png)
+
+![j](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/9.png)
+
+![i](https://asd-1357033528.cos.ap-shanghai.myqcloud.com/img/7.png)
+
+
+
 ## 实现思路
 
 这里主要讲讲det_matrix、inv_matrix和rank_matrix函数的实现思路
@@ -41,3 +61,5 @@
     其中，行运算的具体方式为
 
     Rj=Rj−ajiaii×Ri
+    
+    但结果不对啊
